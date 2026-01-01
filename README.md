@@ -1,5 +1,5 @@
-## Hi there 👋  
-I'm **Chaitanya Kumbhar**
+## Hi there 👋  I'm **Chaitanya Kumbhar**
+
 
 ### 👨‍💻 Aspiring AI & Machine Learning Engineer
 
